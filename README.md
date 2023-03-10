@@ -12,7 +12,8 @@
 
 **PhD student** &#12299;_working on single-cell analysis best practices, scverse tooling and exploratory electronic health record analysis._
 <br/>
-**scverse co-founder** &#12299;_member of the steering-council_
+**scverse co-founder** &#12299;_member of the steering-council_<br/>
+**Research software engineer** &#12299;_Advancing biological data management at [LaminLabs](https://lamin.ai/)_
 
 ----
 

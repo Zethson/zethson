@@ -10,9 +10,9 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**PhD student** &#12299;_working on single-cell analysis best practices, scverse tooling and exploratory electronic health record analysis._
+**PhD student** &#12299;_working on single-cell analysis best practices, scverse tooling and exploratory electronic health record analysis at [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab)_.
 <br/>
-**scverse co-founder** &#12299;_member of the steering-council_<br/>
+**Co-founder** &#12299;_member of the steering-council at [scverse](https://scverse.org/)_<br/>
 **Research software engineer** &#12299;_Advancing biological data management at [LaminLabs](https://lamin.ai/)_
 
 ----

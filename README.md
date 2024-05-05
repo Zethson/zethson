@@ -2,17 +2,9 @@
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-
+**Co-founder** &#12299;_member of the steering-council at [scverse](https://scverse.org/)_<br/>
 **PhD student** &#12299;_working on single-cell analysis best practices, scverse tooling and exploratory electronic health record analysis at [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab)_.
 <br/>
-**Co-founder** &#12299;_member of the steering-council at [scverse](https://scverse.org/)_<br/>
 **Research software engineer** &#12299;_Advancing biological data management at [LaminLabs](https://lamin.ai/)_
 
 ----

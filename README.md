@@ -10,7 +10,7 @@
 ----
 
 <a href="https://twitter.com/lukasheumos">
-  <img align="left" alt="Lukas's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Lukas's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://linkedin.com/in/lukas-heumos">
   <img align="left" alt="Lukas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
